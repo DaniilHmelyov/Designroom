@@ -1,4 +1,12 @@
 
+/*Monitors*/
+    
+@media (min-width: 1600px){
+    .top_nav a{
+        margin: 0 20px;
+    }
+}
+
 /*Netbooks*/
 
 @media (max-width:1024px){
